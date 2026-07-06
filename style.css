@@ -14,7 +14,9 @@ h1 {
 }
 
 #favsubject{
-    color: purple;
+    color: blue;
+    background-color: greenyellow;
+    border-radius: 10px;
 }
 
 h2{
